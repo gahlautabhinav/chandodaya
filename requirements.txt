@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pandas
+numpy
+scikit-learn
+joblib
+tabulate
+opencv-python-headless
+pillow
+pytesseract
+easyocr
+pdf2image
+python-docx
+google-generativeai
+python-dotenv

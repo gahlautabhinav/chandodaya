@@ -1,0 +1,6824 @@
+[
+  {
+    "label": "anushtubh",
+    "count": 407,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "bhurik anushtubh",
+    "count": 6,
+    "pada_count": 3,
+    "syllable_pattern": [
+      9,
+      3
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "bhurik brihati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      10,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "bhurik gayatri",
+    "count": 15,
+    "pada_count": 3,
+    "syllable_pattern": [
+      9,
+      2,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "bhurik jagati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "jagati"
+  },
+  {
+    "label": "bhurik pankti",
+    "count": 30,
+    "pada_count": 3,
+    "syllable_pattern": [
+      9
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "pankti"
+  },
+  {
+    "label": "bhurik trishtubh",
+    "count": 13,
+    "pada_count": 3,
+    "syllable_pattern": [
+      12,
+      11,
+      1
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "bhurik ushnih",
+    "count": 6,
+    "pada_count": 2,
+    "syllable_pattern": [
+      8,
+      4
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "ushnih"
+  },
+  {
+    "label": "bhurik आर्ची ushnih",
+    "count": 1,
+    "pada_count": 5,
+    "syllable_pattern": [
+      8,
+      6,
+      5,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "ushnih"
+  },
+  {
+    "label": "bhurik आर्षी anushtubh",
+    "count": 1,
+    "pada_count": 5,
+    "syllable_pattern": [
+      9,
+      5,
+      8,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "bhurik आर्षी pankti",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      9,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "pankti"
+  },
+  {
+    "label": "bhurik आर्षी ushnih",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "ushnih"
+  },
+  {
+    "label": "bhurik त्रिपाद् gayatri",
+    "count": 1,
+    "pada_count": 5,
+    "syllable_pattern": [
+      6,
+      3,
+      8,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "bhurik निचृदार्षी jagati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      13,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "jagati"
+  },
+  {
+    "label": "bhurik प्रगाथः(विषमा समा सतोबृहती) brihati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      10,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "bhurik प्राजापत्या anushtubh",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      4,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "bhurik प्राजापत्या gayatri",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      9,
+      6,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "bhurik प्राजापत्या jagati",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      45,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "jagati"
+  },
+  {
+    "label": "bhurik ब्राह्मी trishtubh",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      12,
+      11,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "bhurik भुरिग् ushnih",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      8,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "ushnih"
+  },
+  {
+    "label": "bhurik भुरिग् ब्राह्मी brihati",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      10,
+      5,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "bhurik विराड् ब्राह्मी brihati",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      10,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "bhurik साम्नी brihati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      9,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "bhurik साम्नी ushnih",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      5,
+      5,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "ushnih"
+  },
+  {
+    "label": "brihati",
+    "count": 223,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "brihati"
+  },
+  {
+    "label": "gayatri",
+    "count": 1612,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "jagati",
+    "count": 372,
+    "pada_count": 2,
+    "syllable_pattern": [
+      8,
+      7
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": "jagati"
+  },
+  {
+    "label": "nichrid anushtubh",
+    "count": 69,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "nichrid brihati",
+    "count": 17,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "brihati"
+  },
+  {
+    "label": "nichrid gayatri",
+    "count": 257,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      3
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "nichrid jagati",
+    "count": 12,
+    "pada_count": 3,
+    "syllable_pattern": [
+      11,
+      6
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": "jagati"
+  },
+  {
+    "label": "nichrid pankti",
+    "count": 61,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      6
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": "pankti"
+  },
+  {
+    "label": "nichrid trishtubh",
+    "count": 57,
+    "pada_count": 2,
+    "syllable_pattern": [
+      10,
+      9
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "nichrid ushnih",
+    "count": 94,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "ushnih"
+  },
+  {
+    "label": "nichrid अति jagati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "jagati"
+  },
+  {
+    "label": "nichrid आर्ची pankti",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      23,
+      17,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "pankti"
+  },
+  {
+    "label": "nichrid आर्षी anushtubh",
+    "count": 10,
+    "pada_count": 3,
+    "syllable_pattern": [
+      9,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "nichrid आर्षी brihati",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": "brihati"
+  },
+  {
+    "label": "nichrid आर्षी gayatri",
+    "count": 9,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "nichrid आर्षी jagati",
+    "count": 5,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": "jagati"
+  },
+  {
+    "label": "nichrid आर्षी pankti",
+    "count": 4,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "pankti"
+  },
+  {
+    "label": "nichrid आर्षी trishtubh",
+    "count": 12,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "nichrid आर्षी साम्नी trishtubh",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      4,
+      9,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "nichrid आसुरी ushnih",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      6,
+      5,
+      11,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "ushnih"
+  },
+  {
+    "label": "nichrid उपरिष्टाद्विराड् brihati",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      8,
+      7
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "nichrid ऊर्ध्वा brihati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "nichrid द्विपदा gayatri",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "nichrid निचृत्सतः pankti",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      6
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "pankti"
+  },
+  {
+    "label": "nichrid निचृदार्षी gayatri",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "nichrid निचृदार्षी trishtubh",
+    "count": 4,
+    "pada_count": 3,
+    "syllable_pattern": [
+      10,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "nichrid पिपीलिकामध्या anushtubh",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "nichrid प्रगाथः(विषमा brihati",
+    "count": 3,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": "brihati"
+  },
+  {
+    "label": "nichrid बार्हतः प्रगाथः (विषमा brihati",
+    "count": 3,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": "brihati"
+  },
+  {
+    "label": "nichrid ब्राह्मी anushtubh",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      4,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "nichrid ब्राह्मी brihati",
+    "count": 3,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      13,
+      1
+    ],
+    "max_diff_tolerance": 10,
+    "base_family": "brihati"
+  },
+  {
+    "label": "nichrid ब्राह्मी jagati",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      11,
+      4,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "jagati"
+  },
+  {
+    "label": "nichrid ब्राह्मी pankti",
+    "count": 6,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": "pankti"
+  },
+  {
+    "label": "nichrid ब्राह्मी trishtubh",
+    "count": 4,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      12,
+      1
+    ],
+    "max_diff_tolerance": 8,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "nichrid ब्राह्मी ushnih",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      4,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "ushnih"
+  },
+  {
+    "label": "nichrid भुरिगार्षी pankti",
+    "count": 3,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "pankti"
+  },
+  {
+    "label": "nichrid भुरिग् gayatri",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      2,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "nichrid भुरिग् ushnih",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "ushnih"
+  },
+  {
+    "label": "nichrid भुरिग् आर्षी jagati",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      11,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "jagati"
+  },
+  {
+    "label": "nichrid भुरिग्ब्राह्मी brihati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "nichrid भूरिग् आर्ची pankti",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      7,
+      12,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "pankti"
+  },
+  {
+    "label": "nichrid वर्द्धमाना gayatri",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "nichrid वर्धमाना gayatri",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      2
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "nichrid विराडार्षी trishtubh",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      10,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "nichrid विराड् gayatri",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      1,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "nichrid विराड् ब्राह्मी anushtubh",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "nichrid विराड् ब्राह्मी pankti",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      7,
+      7,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "pankti"
+  },
+  {
+    "label": "nichrid विराड्ब्राह्मी gayatri",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "nichrid साम्नी brihati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      12,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "nichrid स्वराडार्षी pankti",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": "pankti"
+  },
+  {
+    "label": "pankti",
+    "count": 183,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": "pankti"
+  },
+  {
+    "label": "svaraj anushtubh",
+    "count": 5,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "svaraj brihati",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "brihati"
+  },
+  {
+    "label": "svaraj gayatri",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      12,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 7,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "svaraj jagati",
+    "count": 7,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "jagati"
+  },
+  {
+    "label": "svaraj pankti",
+    "count": 6,
+    "pada_count": 3,
+    "syllable_pattern": [
+      11,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": "pankti"
+  },
+  {
+    "label": "svaraj आद्यस्य याजुषी pankti",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      29,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "pankti"
+  },
+  {
+    "label": "svaraj आर्ची pankti",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      11,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "pankti"
+  },
+  {
+    "label": "svaraj आर्षी anushtubh",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "svaraj आर्षी brihati",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": "brihati"
+  },
+  {
+    "label": "svaraj आर्षी gayatri",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "svaraj आर्षी jagati",
+    "count": 4,
+    "pada_count": 2,
+    "syllable_pattern": [
+      9,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "jagati"
+  },
+  {
+    "label": "svaraj आर्षी pankti",
+    "count": 2,
+    "pada_count": 4,
+    "syllable_pattern": [
+      6,
+      5,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": "pankti"
+  },
+  {
+    "label": "svaraj आर्षी trishtubh",
+    "count": 8,
+    "pada_count": 3,
+    "syllable_pattern": [
+      19,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "svaraj आर्षी ushnih",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": "ushnih"
+  },
+  {
+    "label": "svaraj आर्षी पथ्या brihati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "svaraj आसुरी anushtubh",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      34,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "svaraj निचृदार्षी trishtubh",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      20,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "svaraj निचृद्ब्रह्मी jagati",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      37,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "jagati"
+  },
+  {
+    "label": "svaraj निचृद्ब्राह्मी pankti",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      40,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "pankti"
+  },
+  {
+    "label": "svaraj ब्राह्मी brihati",
+    "count": 11,
+    "pada_count": 2,
+    "syllable_pattern": [
+      39,
+      1
+    ],
+    "max_diff_tolerance": 21,
+    "base_family": "brihati"
+  },
+  {
+    "label": "svaraj ब्राह्मी jagati",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      16,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": "jagati"
+  },
+  {
+    "label": "svaraj ब्राह्मी pankti",
+    "count": 5,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      11,
+      1
+    ],
+    "max_diff_tolerance": 15,
+    "base_family": "pankti"
+  },
+  {
+    "label": "svaraj ब्राह्मी trishtubh",
+    "count": 11,
+    "pada_count": 3,
+    "syllable_pattern": [
+      10,
+      10,
+      1
+    ],
+    "max_diff_tolerance": 19,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "svaraj ब्राह्मी ushnih",
+    "count": 4,
+    "pada_count": 4,
+    "syllable_pattern": [
+      12,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "ushnih"
+  },
+  {
+    "label": "svaraj ब्राह्मी अनुष्टुब् आर्षी ushnih",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      3,
+      9,
+      11,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "ushnih"
+  },
+  {
+    "label": "svaraj ब्राह्मी याजुषी pankti",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      26,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "pankti"
+  },
+  {
+    "label": "svaraj भुरिगार्षी pankti",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      17,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "pankti"
+  },
+  {
+    "label": "svaraj भुरिग् brihati",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      17,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "svaraj भुरिग् आर्षी jagati",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      22,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "jagati"
+  },
+  {
+    "label": "svaraj भुरिग् ब्राह्मी pankti",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      17,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "pankti"
+  },
+  {
+    "label": "svaraj भुरिग् ब्राह्मी trishtubh",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      14,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "svaraj भुरिग्ब्राह्मी pankti",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      27,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "pankti"
+  },
+  {
+    "label": "svaraj भुरिग्ब्राह्मी trishtubh",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      21,
+      1
+    ],
+    "max_diff_tolerance": 17,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "svaraj याजुषी brihati",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      29,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "svaraj याजुषी trishtubh",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      3,
+      5,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "svaraj याजुषी ushnih",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      45,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "ushnih"
+  },
+  {
+    "label": "svaraj विराडार्षी pankti",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      20,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "pankti"
+  },
+  {
+    "label": "svaraj विराडार्षी trishtubh",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      19,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "svaraj विराड् आर्षी pankti",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      12,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "pankti"
+  },
+  {
+    "label": "svaraj विराड् ब्राह्मी jagati",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      28,
+      1
+    ],
+    "max_diff_tolerance": 9,
+    "base_family": "jagati"
+  },
+  {
+    "label": "svaraj विराड् ब्राह्मी pankti",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      15,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "pankti"
+  },
+  {
+    "label": "svaraj विराड् ब्राह्मी trishtubh",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      23,
+      1
+    ],
+    "max_diff_tolerance": 11,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "svaraj विराड्ब्राह्मी trishtubh",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      20,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "svaraj साम्नी gayatri",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      24,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "svaraj स्वराट् pankti",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      113,
+      13,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "pankti"
+  },
+  {
+    "label": "svaraj स्वराडार्षी brihati",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      15,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "svaraj स्वराडार्षी pankti",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      18,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "pankti"
+  },
+  {
+    "label": "svaraj स्वराडार्षी trishtubh",
+    "count": 4,
+    "pada_count": 2,
+    "syllable_pattern": [
+      18,
+      1
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "svaraj स्वराड्ब्राह्मी trishtubh",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      19,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "trishtubh",
+    "count": 1252,
+    "pada_count": 2,
+    "syllable_pattern": [
+      8,
+      7
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "ushnih",
+    "count": 132,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "ushnih"
+  },
+  {
+    "label": "viraj brihati",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      11,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "viraj pankti",
+    "count": 10,
+    "pada_count": 2,
+    "syllable_pattern": [
+      10,
+      7
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": "pankti"
+  },
+  {
+    "label": "viraj trishtubh",
+    "count": 13,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 7,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "viraj ushnih",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      9,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "ushnih"
+  },
+  {
+    "label": "viraj आर्ची pankti",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      10,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "pankti"
+  },
+  {
+    "label": "viraj आर्षी anushtubh",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      10,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "viraj आर्षी jagati",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      14,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "jagati"
+  },
+  {
+    "label": "viraj आर्षी pankti",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      10,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "pankti"
+  },
+  {
+    "label": "viraj आर्षी ushnih",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      9,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "ushnih"
+  },
+  {
+    "label": "viraj द्विपदा pankti",
+    "count": 26,
+    "pada_count": 2,
+    "syllable_pattern": [
+      9,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": "pankti"
+  },
+  {
+    "label": "viraj पथ्या छन्दः brihati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      4,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "viraj प्राजापत्या jagati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      10,
+      12,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "jagati"
+  },
+  {
+    "label": "viraj ब्राह्मी ushnih",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      9,
+      11,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "ushnih"
+  },
+  {
+    "label": "viraj भुरिग् anushtubh",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      10,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "viraj भुरिग् आर्षी anushtubh",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      10,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "viraj विराड् ब्राह्मी brihati",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      11,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "viraj साम्नी भुरिग् आर्षी ushnih",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      9,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "ushnih"
+  },
+  {
+    "label": "अक्षरपङ्क्ति",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      9,
+      9
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "अति jagati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "jagati"
+  },
+  {
+    "label": "अतिजगती",
+    "count": 13,
+    "pada_count": 3,
+    "syllable_pattern": [
+      9,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": null
+  },
+  {
+    "label": "अतिधृतिः",
+    "count": 4,
+    "pada_count": 2,
+    "syllable_pattern": [
+      23,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "अतिपादनिचृद् gayatri",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      4,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "अतिशक्वरी",
+    "count": 10,
+    "pada_count": 3,
+    "syllable_pattern": [
+      23,
+      1
+    ],
+    "max_diff_tolerance": 10,
+    "base_family": null
+  },
+  {
+    "label": "अत्यष्टिः",
+    "count": 10,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      4,
+      6
+    ],
+    "max_diff_tolerance": 8,
+    "base_family": null
+  },
+  {
+    "label": "अभिकृतिः",
+    "count": 1,
+    "pada_count": 5,
+    "syllable_pattern": [
+      29,
+      4,
+      1,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "अभिकृतिः, निचृद् जगती",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      53,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "अष्टिः",
+    "count": 22,
+    "pada_count": 3,
+    "syllable_pattern": [
+      17,
+      1
+    ],
+    "max_diff_tolerance": 12,
+    "base_family": null
+  },
+  {
+    "label": "आकृतिः",
+    "count": 3,
+    "pada_count": 4,
+    "syllable_pattern": [
+      13,
+      5,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 9,
+    "base_family": null
+  },
+  {
+    "label": "आद्यस्य भुरिक्कृतिः",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      56,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "आद्यस्य भुरिग्धृतिः",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      50,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "आद्यस्याऽत्यष्टिः",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      34,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "आनुष्टुभः प्रगाथः",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "आनुष्टुभः प्रगाथः (गायत्री)",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      2,
+      1
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": null
+  },
+  {
+    "label": "आर्ची pankti",
+    "count": 10,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": "pankti"
+  },
+  {
+    "label": "आर्ची trishtubh",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      2,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "आर्ची ushnih",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "ushnih"
+  },
+  {
+    "label": "आर्चीगायत्री",
+    "count": 8,
+    "pada_count": 1,
+    "syllable_pattern": [
+      6,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "आर्चीजगती",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "आर्चीत्रिष्टुप्",
+    "count": 10,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      7
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "आर्चीपङ्क्ति",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      3,
+      10
+    ],
+    "max_diff_tolerance": 7,
+    "base_family": null
+  },
+  {
+    "label": "आर्चीबृहती",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      5
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "आर्चीभुरिक्त्रिष्टुप्",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      8
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "आर्चीभुरिक्पङ्क्ति",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      6
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "आर्चीभुरिग्गायत्री",
+    "count": 4,
+    "pada_count": 1,
+    "syllable_pattern": [
+      7
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": null
+  },
+  {
+    "label": "आर्चीभुरिग्बृहती",
+    "count": 5,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      6
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": null
+  },
+  {
+    "label": "आर्चीस्वराट्त्रिष्टुप्",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      6
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": null
+  },
+  {
+    "label": "आर्चीस्वराट्पङ्क्ति",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      3
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "आर्चीस्वराडुष्णिक्",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      4
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "आर्चीस्वराड्गायत्री",
+    "count": 4,
+    "pada_count": 1,
+    "syllable_pattern": [
+      7
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": null
+  },
+  {
+    "label": "आर्चीस्वराड्बृहती",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      6
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": null
+  },
+  {
+    "label": "आर्च्यनुष्टुप्",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      5
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": null
+  },
+  {
+    "label": "आर्च्युष्णिक्",
+    "count": 25,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      1
+    ],
+    "max_diff_tolerance": 22,
+    "base_family": null
+  },
+  {
+    "label": "आर्षी",
+    "count": 3,
+    "pada_count": 3,
+    "syllable_pattern": [
+      4,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "आर्षी anushtubh",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "आर्षी brihati",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": "brihati"
+  },
+  {
+    "label": "आर्षी gayatri",
+    "count": 14,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 9,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "आर्षी jagati",
+    "count": 9,
+    "pada_count": 3,
+    "syllable_pattern": [
+      9,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 8,
+    "base_family": "jagati"
+  },
+  {
+    "label": "आर्षी pankti",
+    "count": 11,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "pankti"
+  },
+  {
+    "label": "आर्षी trishtubh",
+    "count": 48,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "आर्षी ushnih",
+    "count": 3,
+    "pada_count": 3,
+    "syllable_pattern": [
+      4,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "ushnih"
+  },
+  {
+    "label": "आर्षी विराड् anushtubh",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "आर्षीगायत्री",
+    "count": 39,
+    "pada_count": 2,
+    "syllable_pattern": [
+      4,
+      3
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "आर्षीजगती",
+    "count": 7,
+    "pada_count": 2,
+    "syllable_pattern": [
+      10,
+      6
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "आर्षीत्रिष्टुप्",
+    "count": 31,
+    "pada_count": 2,
+    "syllable_pattern": [
+      8,
+      8
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "आर्षीपङ्क्ति",
+    "count": 6,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      4
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": null
+  },
+  {
+    "label": "आर्षीबृहती",
+    "count": 10,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      6
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "आर्षीभुरिग्बृहती",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      7
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "आर्षीविराड्बृहती",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      6
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "आर्षीस्वराड्त्रिष्टुप्",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      7
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "आर्षीस्वराड्बृहती",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      6
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "आर्ष्यनुष्टुप्",
+    "count": 12,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": null
+  },
+  {
+    "label": "आर्ष्युष्णिक्",
+    "count": 9,
+    "pada_count": 3,
+    "syllable_pattern": [
+      4,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "आसुरीत्रिष्टुप्",
+    "count": 1,
+    "pada_count": 1,
+    "syllable_pattern": [
+      5
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "आसुरीपङ्क्ति",
+    "count": 3,
+    "pada_count": 3,
+    "syllable_pattern": [
+      3,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "आसुरीबृहती",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      4,
+      6
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "आसुरीस्वराडार्चीनिचृज्जगती",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      4,
+      3
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "आस्तारपङ्क्ति",
+    "count": 8,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      11
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": null
+  },
+  {
+    "label": "आस्तारपङ्क्तिः",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      11,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "उत्कृतिः",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      12,
+      5,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "उपरिष्टाज्योति",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      6
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "उपरिष्टाज्योतिर्नामजगती वा",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      6
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "उपरिष्टाद् brihati",
+    "count": 5,
+    "pada_count": 3,
+    "syllable_pattern": [
+      9,
+      4
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "brihati"
+  },
+  {
+    "label": "उपरिष्टाद्बृहती",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": null
+  },
+  {
+    "label": "उपरिष्टाद्विराड् brihati",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      4,
+      5
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": "brihati"
+  },
+  {
+    "label": "ऊर्ध्वा brihati",
+    "count": 5,
+    "pada_count": 3,
+    "syllable_pattern": [
+      9,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "brihati"
+  },
+  {
+    "label": "एकपदा gayatri",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      3,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "एकपात् trishtubh",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      3,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "ककुप्",
+    "count": 19,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "ककुबुष्णिक्",
+    "count": 16,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      3
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "ककुम्मतीगायत्री",
+    "count": 16,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      3
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": null
+  },
+  {
+    "label": "ककुम्मतीजगती",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      9,
+      8
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "ककुम्मतीबृहती",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      7
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": null
+  },
+  {
+    "label": "ककुम्मत्यनुष्टुप्",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      7
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "ककुम्मत्युष्णिक्",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      3,
+      4
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": null
+  },
+  {
+    "label": "ककुष्णिक्",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      2
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "काकुभः प्रगाथः (विषमा ककुप्, समा सतोबृहती)",
+    "count": 11,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "काकुभः प्रगाथः (विषमा ककुबुष्णिक्, समा सतोबृहती)",
+    "count": 4,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": null
+  },
+  {
+    "label": "कृतिः",
+    "count": 13,
+    "pada_count": 2,
+    "syllable_pattern": [
+      16,
+      1
+    ],
+    "max_diff_tolerance": 11,
+    "base_family": null
+  },
+  {
+    "label": "ज्योतिष्मतीत्रिष्टुप्",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      9,
+      7
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "त्रिपदा अनुष्टुप्पिपीलिकामध्या",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": null
+  },
+  {
+    "label": "त्रिपदा विराडनुष्टुप्",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "त्रिपाद विराड् gayatri",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      2,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "त्रिपादविराड्गायत्री",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      9,
+      3
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "त्रिपाद्गायत्री",
+    "count": 6,
+    "pada_count": 2,
+    "syllable_pattern": [
+      3,
+      2
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "दैवी brihati",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "brihati"
+  },
+  {
+    "label": "द्विपदा gayatri",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "द्विपदा pankti",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      8,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "pankti"
+  },
+  {
+    "label": "द्विपदा trishtubh",
+    "count": 5,
+    "pada_count": 2,
+    "syllable_pattern": [
+      8,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "द्विपदा विराट्",
+    "count": 41,
+    "pada_count": 1,
+    "syllable_pattern": [
+      6
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "द्विपदा विराड्गायत्री",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      4,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "द्विपदात्रिष्टुप्",
+    "count": 5,
+    "pada_count": 1,
+    "syllable_pattern": [
+      8
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": null
+  },
+  {
+    "label": "द्विपाद्विराड् gayatri",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      3,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "धृतिः",
+    "count": 5,
+    "pada_count": 4,
+    "syllable_pattern": [
+      9,
+      10,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 12,
+    "base_family": null
+  },
+  {
+    "label": "निचृच्छक्वरी",
+    "count": 11,
+    "pada_count": 2,
+    "syllable_pattern": [
+      9,
+      10
+    ],
+    "max_diff_tolerance": 22,
+    "base_family": null
+  },
+  {
+    "label": "निचृच्छक्वरी trishtubh",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "निचृज्जगती",
+    "count": 431,
+    "pada_count": 2,
+    "syllable_pattern": [
+      8,
+      7
+    ],
+    "max_diff_tolerance": 8,
+    "base_family": null
+  },
+  {
+    "label": "निचृत pankti",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "pankti"
+  },
+  {
+    "label": "निचृत trishtubh",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "निचृतच्छक्वरी",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      5,
+      4,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "निचृत् अतिजगती",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      12,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "निचृत् प्रकृतिः",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      24,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "निचृत्कृतिः",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      4,
+      20,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "निचृत्त्रिपाद्गायत्री",
+    "count": 9,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "निचृत्त्रिष्टुप्",
+    "count": 1467,
+    "pada_count": 2,
+    "syllable_pattern": [
+      8,
+      7
+    ],
+    "max_diff_tolerance": 7,
+    "base_family": null
+  },
+  {
+    "label": "निचृत्पङ्क्ति",
+    "count": 229,
+    "pada_count": 2,
+    "syllable_pattern": [
+      8,
+      6
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": null
+  },
+  {
+    "label": "निचृत्पङ्क्तिः",
+    "count": 24,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "निचृत्पथ्याबृहती",
+    "count": 9,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      7
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": null
+  },
+  {
+    "label": "निचृत्परोष्णिक्",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      3,
+      6
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "निचृत्पिपीलिकामध्यागायत्री",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      4,
+      2
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "निचृत्प्रकृतिः",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      10,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "निचृत्बृहती",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      5
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "निचृत्शक्वरी",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "निचृत्संकृतिः",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      18,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "निचृत्सतः pankti",
+    "count": 5,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      8
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "pankti"
+  },
+  {
+    "label": "निचृद gayatri",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      2,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "निचृदतिजगती",
+    "count": 15,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "निचृदतिधृतिः",
+    "count": 9,
+    "pada_count": 2,
+    "syllable_pattern": [
+      22,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "निचृदतिशक्वरी",
+    "count": 8,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      5,
+      7
+    ],
+    "max_diff_tolerance": 10,
+    "base_family": null
+  },
+  {
+    "label": "निचृदत्यष्टिः",
+    "count": 28,
+    "pada_count": 3,
+    "syllable_pattern": [
+      10,
+      4,
+      6
+    ],
+    "max_diff_tolerance": 8,
+    "base_family": null
+  },
+  {
+    "label": "निचृदत्यष्टिः, स्वराडत्यष्टिः",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      43,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "निचृदनुष्टुप्",
+    "count": 335,
+    "pada_count": 2,
+    "syllable_pattern": [
+      4,
+      5
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "निचृदबृहती",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "निचृदभिकृतिः",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      25,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "निचृदष्टिः",
+    "count": 19,
+    "pada_count": 2,
+    "syllable_pattern": [
+      19,
+      1
+    ],
+    "max_diff_tolerance": 13,
+    "base_family": null
+  },
+  {
+    "label": "निचृदाकृतिः",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      9,
+      18,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "निचृदार्चीत्रिष्टुप्",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      8,
+      5
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "निचृदार्च्युष्णिक्",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "निचृदार्षी",
+    "count": 3,
+    "pada_count": 3,
+    "syllable_pattern": [
+      4,
+      2,
+      1
+    ],
+    "max_diff_tolerance": 9,
+    "base_family": null
+  },
+  {
+    "label": "निचृदार्षी brihati",
+    "count": 3,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "brihati"
+  },
+  {
+    "label": "निचृदार्षी gayatri",
+    "count": 3,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "निचृदार्षी jagati",
+    "count": 6,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": "jagati"
+  },
+  {
+    "label": "निचृदार्षी pankti",
+    "count": 3,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "pankti"
+  },
+  {
+    "label": "निचृदार्षी trishtubh",
+    "count": 33,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "निचृदार्षी यवमध्या trishtubh",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      10,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "निचृदार्षीगायत्री",
+    "count": 18,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      3
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "निचृदार्षीत्रिष्टुप्",
+    "count": 5,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "निचृदार्षीपङ्क्ति",
+    "count": 4,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      6
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "निचृदार्ष्यनुष्टुप्",
+    "count": 23,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "निचृदार्ष्युष्णिक्",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      4,
+      3
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": null
+  },
+  {
+    "label": "निचृदास्तारपङ्क्ति",
+    "count": 8,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      7
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "निचृदुत्कृतिः",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      13,
+      5,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "निचृदुपरिष्टाद् brihati",
+    "count": 4,
+    "pada_count": 2,
+    "syllable_pattern": [
+      3,
+      8
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "brihati"
+  },
+  {
+    "label": "निचृदुपरिष्टाद्बृहती",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "निचृदुष्णिक्",
+    "count": 150,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      4
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "निचृद् अति शक्वरी",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      13,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "निचृद् अत्यष्टिः",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      8,
+      12,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "निचृद् धृतिः",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      7,
+      10,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "निचृद्गायत्री",
+    "count": 798,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      3
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": null
+  },
+  {
+    "label": "निचृद्गायत्री, प्राजापत्या गायत्री",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      5,
+      4,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "निचृद्धृतिः",
+    "count": 2,
+    "pada_count": 4,
+    "syllable_pattern": [
+      4,
+      5,
+      5,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "निचृद्बृहती",
+    "count": 133,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      6
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "निचृद्ब्राह्मी brihati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      10,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "निचृद्ब्राह्म्यनुष्टुप्",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      14
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "निचृद्विकृतिः",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      4,
+      3,
+      4,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "निचृद्विष्टारपङ्क्ति",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      6
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": null
+  },
+  {
+    "label": "निच्रृदनुष्टुप्",
+    "count": 5,
+    "pada_count": 2,
+    "syllable_pattern": [
+      4,
+      5
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "न्यङ्कुसारिणी brihati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      4,
+      2,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "न्यङ्कुसारिणीबृहती",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      4,
+      5
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "पञ्चचपदा ज्योतिष्मती jagati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "jagati"
+  },
+  {
+    "label": "पथ्या brihati",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": "brihati"
+  },
+  {
+    "label": "पथ्यावृहती",
+    "count": 13,
+    "pada_count": 2,
+    "syllable_pattern": [
+      4,
+      7
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "पदपङ्क्तिः",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": null
+  },
+  {
+    "label": "परोष्णिक्",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "परोष्निक्",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      5
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "पादनिचृच्छ्क्वरी",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      8
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "पादनिचृज्ज्गती",
+    "count": 74,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      7
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "पादनिचृतत्रिष्टुप्",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      8,
+      7
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "पादनिचृत् (गायत्री)",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      2,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "पादनिचृत्त्रिष्टुप्",
+    "count": 106,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      7
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "पादनिचृत्पङ्क्ति",
+    "count": 23,
+    "pada_count": 2,
+    "syllable_pattern": [
+      9,
+      6
+    ],
+    "max_diff_tolerance": 7,
+    "base_family": null
+  },
+  {
+    "label": "पादनिचृदनुष्टुप्",
+    "count": 17,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      3
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "पादनिचृदुष्णिक्",
+    "count": 24,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      5
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "पादनिचृद्गायत्री",
+    "count": 51,
+    "pada_count": 2,
+    "syllable_pattern": [
+      4,
+      3
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "पाद्निचृत्पथ्याबृहती",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      6
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "पाद्निचृद्बृहती",
+    "count": 19,
+    "pada_count": 2,
+    "syllable_pattern": [
+      4,
+      5
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "पिपीलिकामध्या anushtubh",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "पिपीलिकामध्या brihati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      3,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "पिपीलिकामध्या निचृद्गायत्री",
+    "count": 3,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": null
+  },
+  {
+    "label": "पिपीलिकामध्या निचृद्गायत्री, प्राजापत्या बृहती",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      4,
+      3,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "पिपीलिकामध्या विराडनुष्टुप्",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "पिपीलिकामध्या विराड् gayatri",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      4,
+      2,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "पिपीलिकामध्यागायत्री",
+    "count": 12,
+    "pada_count": 1,
+    "syllable_pattern": [
+      6
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "पिपीलिकामध्यानिचृद्गायत्री",
+    "count": 55,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      3
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "पिपीलिकामध्याविराड्गायत्री",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      3
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": null
+  },
+  {
+    "label": "पिपीलिकामध्योष्णिक्",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      3
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "पुर ushnih",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      2,
+      1
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": "ushnih"
+  },
+  {
+    "label": "पुरउष्णिक्",
+    "count": 6,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      2,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "पुरस्ताज्योतिर्नामजगती",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      7
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "पुरोष्णिक्",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      3,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "पूर्वार्द्धस्य साम्नी बृहत्युत्तरार्द्धस्य भुरिग्बृहती",
+    "count": 4,
+    "pada_count": 3,
+    "syllable_pattern": [
+      9,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": null
+  },
+  {
+    "label": "पूर्वार्द्धस्य स्वराट्संकृतिः, उत्तरार्धस्याभिकृतिः",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      56,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "पूर्वार्द्धस्योत्तरार्द्धस्य च भुरिग्बृहती",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": null
+  },
+  {
+    "label": "प्रकृतिः",
+    "count": 1,
+    "pada_count": 5,
+    "syllable_pattern": [
+      6,
+      4,
+      5,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "प्रगाथः(विषमा brihati",
+    "count": 25,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": "brihati"
+  },
+  {
+    "label": "प्रगाथः(विषमा समा सतोबृहती) brihati",
+    "count": 7,
+    "pada_count": 3,
+    "syllable_pattern": [
+      4,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": "brihati"
+  },
+  {
+    "label": "प्रतिष्ठागायत्री",
+    "count": 4,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      2
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": null
+  },
+  {
+    "label": "प्रस्तारपङ्क्तिः",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "प्राजापत्या anushtubh",
+    "count": 3,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "प्राजापत्या brihati",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": "brihati"
+  },
+  {
+    "label": "प्राजापत्या gayatri",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "प्राजापत्या jagati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      1,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "jagati"
+  },
+  {
+    "label": "प्राजापत्याबृहती",
+    "count": 4,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      1
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": null
+  },
+  {
+    "label": "बार्हतः प्रगाथः (विषमा brihati",
+    "count": 33,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "brihati"
+  },
+  {
+    "label": "ब्राह्मी anushtubh",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      4,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "ब्राह्मी brihati",
+    "count": 2,
+    "pada_count": 4,
+    "syllable_pattern": [
+      6,
+      6,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": "brihati"
+  },
+  {
+    "label": "ब्राह्मी gayatri",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "ब्राह्मी trishtubh",
+    "count": 3,
+    "pada_count": 4,
+    "syllable_pattern": [
+      7,
+      6,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "ब्राह्मी ushnih",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      5,
+      3,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "ushnih"
+  },
+  {
+    "label": "ब्राह्मी छन्दः brihati",
+    "count": 1,
+    "pada_count": 5,
+    "syllable_pattern": [
+      4,
+      5,
+      5,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "ब्राह्मीबृहती",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "ब्राह्म्युष्णिक्",
+    "count": 7,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": null
+  },
+  {
+    "label": "ब्राह्म्युष्निक्",
+    "count": 4,
+    "pada_count": 2,
+    "syllable_pattern": [
+      10,
+      9
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "भुरिक् कृतिः",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      11,
+      12,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "भुरिक् शक्वरी",
+    "count": 6,
+    "pada_count": 2,
+    "syllable_pattern": [
+      20,
+      1
+    ],
+    "max_diff_tolerance": 13,
+    "base_family": null
+  },
+  {
+    "label": "भुरिक् शक्वरी, भुरिग् गायत्री",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      10,
+      8,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "भुरिक्कृतिः",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      5,
+      6,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "भुरिक्कृतिः, निचृत् प्रकृतिः",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      36,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "भुरिक्छक्वरी",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      11,
+      1
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": null
+  },
+  {
+    "label": "भुरिक्छक्वरी, निचृतदतिशक्वरी",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      30,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "भुरिक्त्रिष्टुप्",
+    "count": 192,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      8
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "भुरिक्पङ्क्ति",
+    "count": 297,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      6
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": null
+  },
+  {
+    "label": "भुरिक्पङ्क्तिः",
+    "count": 67,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "भुरिक्पङ्क्तिः, स्वराट्पङ्क्तिः, निचृदाकृतिः",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      46,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "भुरिक्प्राजापत्योष्णिक्",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      26,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "भुरिक्बृहती",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      7
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": null
+  },
+  {
+    "label": "भुरिक्शक्वरी",
+    "count": 6,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      4,
+      9
+    ],
+    "max_diff_tolerance": 8,
+    "base_family": null
+  },
+  {
+    "label": "भुरिक्संकृतिः",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      24,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "भुरिक्साम्नी brihati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      3,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "भुरिगतिगती",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      17,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "भुरिगतिजगती",
+    "count": 25,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      12,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "भुरिगतिजगती, भुरिग्ब्राह्मी बृहती",
+    "count": 2,
+    "pada_count": 4,
+    "syllable_pattern": [
+      14,
+      5,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": null
+  },
+  {
+    "label": "भुरिगतिधृतिः",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      4,
+      22,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "भुरिगतिशक्वरी",
+    "count": 12,
+    "pada_count": 3,
+    "syllable_pattern": [
+      10,
+      5,
+      7
+    ],
+    "max_diff_tolerance": 9,
+    "base_family": null
+  },
+  {
+    "label": "भुरिगतिशक्वर्यौ",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      31,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "भुरिगत्यष्टिः",
+    "count": 9,
+    "pada_count": 2,
+    "syllable_pattern": [
+      16,
+      1
+    ],
+    "max_diff_tolerance": 7,
+    "base_family": null
+  },
+  {
+    "label": "भुरिगनुष्टुप्",
+    "count": 60,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "भुरिगष्टिः",
+    "count": 22,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      6,
+      7
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": null
+  },
+  {
+    "label": "भुरिगाकृतिः",
+    "count": 4,
+    "pada_count": 2,
+    "syllable_pattern": [
+      22,
+      1
+    ],
+    "max_diff_tolerance": 22,
+    "base_family": null
+  },
+  {
+    "label": "भुरिगाकृतिः, आर्ची बृहती",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      26,
+      11,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "भुरिगार्चीगायत्री",
+    "count": 25,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "भुरिगार्चीजगती",
+    "count": 10,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      6
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "भुरिगार्चीत्रिष्टुप्",
+    "count": 8,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      8
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "भुरिगार्चीपङ्क्ति",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      7
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "भुरिगार्च्यनुष्टुप्",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      4,
+      3
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": null
+  },
+  {
+    "label": "भुरिगार्षी",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      7
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "भुरिगार्षी brihati",
+    "count": 3,
+    "pada_count": 3,
+    "syllable_pattern": [
+      4,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": "brihati"
+  },
+  {
+    "label": "भुरिगार्षी gayatri",
+    "count": 5,
+    "pada_count": 3,
+    "syllable_pattern": [
+      4,
+      1,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "भुरिगार्षी pankti",
+    "count": 11,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "pankti"
+  },
+  {
+    "label": "भुरिगार्षी trishtubh",
+    "count": 9,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "भुरिगार्षीपङ्क्ति",
+    "count": 4,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      4
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "भुरिगार्षीबृहती",
+    "count": 4,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      9
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": null
+  },
+  {
+    "label": "भुरिगार्ष्यनुष्टुप्",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "भुरिगार्ष्युष्णिक्",
+    "count": 10,
+    "pada_count": 3,
+    "syllable_pattern": [
+      4,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "भुरिगुत्कृतिः",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      30,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "भुरिगुपरिष्टाद् brihati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "भुरिगुष्णिक्",
+    "count": 53,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "भुरिग् anushtubh",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "भुरिग् brihati",
+    "count": 3,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "brihati"
+  },
+  {
+    "label": "भुरिग् gayatri",
+    "count": 2,
+    "pada_count": 4,
+    "syllable_pattern": [
+      4,
+      3,
+      3,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "भुरिग् jagati",
+    "count": 5,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      6,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "jagati"
+  },
+  {
+    "label": "भुरिग् अतिधृतिः",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      8,
+      10,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "भुरिग् अत्यष्टिः",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      7,
+      11,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "भुरिग् अष्टिः",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      8,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "भुरिग् आर्ची gayatri",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      6,
+      13,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "भुरिग् आर्ची trishtubh",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      7,
+      7,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "भुरिग् आर्षी anushtubh",
+    "count": 6,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "भुरिग् आर्षी brihati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "भुरिग् आर्षी gayatri",
+    "count": 3,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "भुरिग् आर्षी jagati",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      6,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "jagati"
+  },
+  {
+    "label": "भुरिग् आर्षी pankti",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": "pankti"
+  },
+  {
+    "label": "भुरिग् आर्षी trishtubh",
+    "count": 8,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "भुरिग् ब्राह्मी anushtubh",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "भुरिग् ब्राह्मी brihati",
+    "count": 3,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      10,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "brihati"
+  },
+  {
+    "label": "भुरिग् ब्राह्मी pankti",
+    "count": 3,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      13,
+      1
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": "pankti"
+  },
+  {
+    "label": "भुरिग् ब्राह्मी trishtubh",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "भुरिग्गायत्री",
+    "count": 27,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      4
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "भुरिग्जगती",
+    "count": 18,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "भुरिग्धृतिः",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      14,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "भुरिग्धृतिः, भुरिगतिधृतिः",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      49,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "भुरिग्बृहती",
+    "count": 44,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      5
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": null
+  },
+  {
+    "label": "भुरिग्बृहती brihati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "भुरिग्ब्राह्मी",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      2,
+      19,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "भुरिग्विकृतिः",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      10,
+      5,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "भूरिग् brihati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "भूरिग् अत्यष्टिः,",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      9,
+      10,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "भूरिग् आर्ची pankti",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "pankti"
+  },
+  {
+    "label": "भूरिग् आर्षी brihati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "भूरिग् आर्षी gayatri",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "भूरिग् आर्षी pankti",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      6,
+      2,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "pankti"
+  },
+  {
+    "label": "भूरिग् आर्षी trishtubh",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      9,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "भूरिग् आसुरी gayatri",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      4,
+      5,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "महा pankti",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      5,
+      6,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "pankti"
+  },
+  {
+    "label": "महापङ्क्ति",
+    "count": 10,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      7
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "महापङ्क्तिः",
+    "count": 4,
+    "pada_count": 4,
+    "syllable_pattern": [
+      5,
+      5,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": null
+  },
+  {
+    "label": "महाबृहती",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      4,
+      10
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "महासतोबृहती",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      6
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "यवमध्या gayatri",
+    "count": 4,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "यवमध्यागायत्री",
+    "count": 7,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      3
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": null
+  },
+  {
+    "label": "यवमध्यापादनिचृद्गायत्री",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      3
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "यवमध्याविराड्गायत्री",
+    "count": 5,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      2
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": null
+  },
+  {
+    "label": "याजुषी anushtubh",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      8,
+      5,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "याजुषी pankti",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      3,
+      3,
+      16,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "pankti"
+  },
+  {
+    "label": "याजुषी ushnih",
+    "count": 1,
+    "pada_count": 5,
+    "syllable_pattern": [
+      2,
+      7,
+      4,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "ushnih"
+  },
+  {
+    "label": "याजुषीपङ्क्ति",
+    "count": 4,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "वर्धमाना gayatri",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      4,
+      2
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "वा trishtubh",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      8
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "विकृतिः",
+    "count": 4,
+    "pada_count": 3,
+    "syllable_pattern": [
+      28,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "विराट्",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "विराट् प्रकृतिः",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      6,
+      8,
+      14,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "विराट् प्रकृतिः, प्रकृतिः",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      33,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "विराट्कृतिः",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      12,
+      1
+    ],
+    "max_diff_tolerance": 10,
+    "base_family": null
+  },
+  {
+    "label": "विराट्गायत्री",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      4,
+      3
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "विराट्जगती",
+    "count": 7,
+    "pada_count": 2,
+    "syllable_pattern": [
+      8,
+      7
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "विराट्त्रिष्टुप्",
+    "count": 755,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      7
+    ],
+    "max_diff_tolerance": 7,
+    "base_family": null
+  },
+  {
+    "label": "विराट्पङ्क्ति",
+    "count": 95,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      6
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "विराट्पङ्क्तिः",
+    "count": 11,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "विराट्पथ्याबृहती",
+    "count": 6,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      7
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "विराट्परोष्णिक्",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      4,
+      3
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": null
+  },
+  {
+    "label": "विराट्पिपीलिकामध्यागायत्री",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "विराट्पूर्वानुष्टुप्",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      12,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "विराट्शक्वरी",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      9,
+      10
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "विराट्संकृतिः",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      23,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "विराट्सतःपङ्क्ति",
+    "count": 10,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      5
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "विराडतिजगती",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      8,
+      6
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "विराडतिधृतिः",
+    "count": 4,
+    "pada_count": 2,
+    "syllable_pattern": [
+      22,
+      1
+    ],
+    "max_diff_tolerance": 8,
+    "base_family": null
+  },
+  {
+    "label": "विराडतिशक्वरी",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      6,
+      7
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "विराडत्यष्टिः",
+    "count": 22,
+    "pada_count": 3,
+    "syllable_pattern": [
+      9,
+      3,
+      6
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "विराडनुष्टुप्",
+    "count": 195,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      5
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "विराडबृहती",
+    "count": 3,
+    "pada_count": 3,
+    "syllable_pattern": [
+      4,
+      7
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "विराडभिकृतिः",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      29,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "विराडष्टिः",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      11,
+      4,
+      4
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "विराडाकृतिः",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      20,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "विराडार्चीगायत्री",
+    "count": 3,
+    "pada_count": 1,
+    "syllable_pattern": [
+      4
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": null
+  },
+  {
+    "label": "विराडार्चीत्रिष्टुप्",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      5
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": null
+  },
+  {
+    "label": "विराडार्षी",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      9,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": null
+  },
+  {
+    "label": "विराडार्षी jagati",
+    "count": 3,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "jagati"
+  },
+  {
+    "label": "विराडार्षी pankti",
+    "count": 4,
+    "pada_count": 3,
+    "syllable_pattern": [
+      4,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": "pankti"
+  },
+  {
+    "label": "विराडार्षी trishtubh",
+    "count": 12,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "विराडार्षीगायत्री",
+    "count": 13,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      3
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "विराडार्षीत्रिष्टुप्",
+    "count": 4,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "विराडार्षीनुष्टुप्",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": null
+  },
+  {
+    "label": "विराडार्षीपङ्क्ति",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      11
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "विराडार्ष्यनुष्टुप्",
+    "count": 20,
+    "pada_count": 2,
+    "syllable_pattern": [
+      4,
+      4
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "विराडार्ष्युष्णिक्",
+    "count": 5,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      4
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": null
+  },
+  {
+    "label": "विराडास्तारपङ्क्ति",
+    "count": 5,
+    "pada_count": 2,
+    "syllable_pattern": [
+      4,
+      9
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "विराडुपरिष्टाद् brihati",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      4,
+      5
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "विराडुष्णिक्",
+    "count": 16,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "विराडुष्निक्",
+    "count": 60,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      3
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": null
+  },
+  {
+    "label": "विराड् anushtubh",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "विराड् brihati",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": "brihati"
+  },
+  {
+    "label": "विराड् gayatri",
+    "count": 7,
+    "pada_count": 3,
+    "syllable_pattern": [
+      3,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "विराड् jagati",
+    "count": 4,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": "jagati"
+  },
+  {
+    "label": "विराड् आर्ची pankti",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "pankti"
+  },
+  {
+    "label": "विराड् आर्ची trishtubh",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      9,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "विराड् आर्षी anushtubh",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      4,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "विराड् आर्षी brihati",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      3,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 7,
+    "base_family": "brihati"
+  },
+  {
+    "label": "विराड् आर्षी trishtubh",
+    "count": 6,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "विराड् उत्कृतिः",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      6,
+      6,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "विराड् धृतिः",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      14,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "विराड् ब्राह्मी anushtubh",
+    "count": 1,
+    "pada_count": 5,
+    "syllable_pattern": [
+      4,
+      3,
+      4,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "anushtubh"
+  },
+  {
+    "label": "विराड् ब्राह्मी brihati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "विराड् ब्राह्मी jagati",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      7,
+      6,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "jagati"
+  },
+  {
+    "label": "विराड् ब्राह्मी pankti",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      6,
+      5,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "pankti"
+  },
+  {
+    "label": "विराड् ब्राह्मी trishtubh",
+    "count": 5,
+    "pada_count": 4,
+    "syllable_pattern": [
+      8,
+      13,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "विराड्गायत्री",
+    "count": 253,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      2
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "विराड्जगती",
+    "count": 280,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      7
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": null
+  },
+  {
+    "label": "विराड्त्रिष्टुप्",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      4
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "विराड्धृतिः",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      26,
+      1
+    ],
+    "max_diff_tolerance": 7,
+    "base_family": null
+  },
+  {
+    "label": "विराड्नुष्टुप्",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      3,
+      4
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "विराड्पङ्क्ति",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "विराड्बृहती",
+    "count": 82,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      6
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "विराड्ब्राह्मी brihati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "विराड्ब्राह्मीजगती",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      15,
+      3,
+      6
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "विराड्ब्राह्म्यनुष्टुप्",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      13
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "विराड्विस्तारपङ्क्ति",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      5
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "विष्टारपङ्क्तिः",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      5
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "शक्वरी",
+    "count": 13,
+    "pada_count": 2,
+    "syllable_pattern": [
+      8,
+      10
+    ],
+    "max_diff_tolerance": 24,
+    "base_family": null
+  },
+  {
+    "label": "शक्वरी, भुरिग्बृहती",
+    "count": 1,
+    "pada_count": 6,
+    "syllable_pattern": [
+      9,
+      6,
+      1,
+      7,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "शङ्कुमती gayatri",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      2,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "शङ्कुमतीपङ्क्ति",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      3,
+      9
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "शङ्कुम्मतीबृहती",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      5
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": null
+  },
+  {
+    "label": "संकृतिः, विराट् संकृतिः",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      83,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "संस्तारपङ्क्ति",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      7
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": null
+  },
+  {
+    "label": "सतःपङ्क्ति",
+    "count": 19,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      8
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "सतोबृहती",
+    "count": 3,
+    "pada_count": 3,
+    "syllable_pattern": [
+      4,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "साम्नी brihati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      3,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "साम्नी pankti",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "pankti"
+  },
+  {
+    "label": "साम्नी trishtubh",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      8,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "साम्नी ushnih",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      4,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "ushnih"
+  },
+  {
+    "label": "साम्नी भुरिग् आर्षी brihati",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      6,
+      6,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "साम्नीपङ्क्ति",
+    "count": 1,
+    "pada_count": 1,
+    "syllable_pattern": [
+      9
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "साम्नीपङ्क्तिः",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      8,
+      1
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": null
+  },
+  {
+    "label": "स्कन्धोग्रीवी brihati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "स्वरडार्चीबृहती",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      4,
+      7
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": null
+  },
+  {
+    "label": "स्वराट् pankti",
+    "count": 3,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": "pankti"
+  },
+  {
+    "label": "स्वराट् trishtubh",
+    "count": 4,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "स्वराट् आर्षी trishtubh",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "स्वराट् प्रकृतिः",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      30,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "स्वराट् प्राजापत्या brihati",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      7,
+      8,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "स्वराट् शक्वरी",
+    "count": 3,
+    "pada_count": 2,
+    "syllable_pattern": [
+      29,
+      1
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": null
+  },
+  {
+    "label": "स्वराट् संकृतिः",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      26,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "स्वराट् सतो brihati",
+    "count": 1,
+    "pada_count": 7,
+    "syllable_pattern": [
+      7,
+      5,
+      3,
+      1,
+      2,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "स्वराट्आर्चीत्रिष्टुप्",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      9,
+      7
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "स्वराट्ककुबुष्णिक्",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      9,
+      2
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "स्वराट्त्रिष्टुप्",
+    "count": 78,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      7
+    ],
+    "max_diff_tolerance": 9,
+    "base_family": null
+  },
+  {
+    "label": "स्वराट्पङ्क्ति",
+    "count": 169,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "स्वराट्पङ्क्तिः",
+    "count": 56,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 7,
+    "base_family": null
+  },
+  {
+    "label": "स्वराट्बृहती",
+    "count": 3,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": null
+  },
+  {
+    "label": "स्वराट्शक्वरी",
+    "count": 8,
+    "pada_count": 3,
+    "syllable_pattern": [
+      8,
+      7,
+      5
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": null
+  },
+  {
+    "label": "स्वराट्संकृतिः",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      22,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "स्वराडतिजगती",
+    "count": 3,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      10,
+      1
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": null
+  },
+  {
+    "label": "स्वराडतिधृतिः",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      26,
+      1
+    ],
+    "max_diff_tolerance": 10,
+    "base_family": null
+  },
+  {
+    "label": "स्वराडतिशक्वरी",
+    "count": 5,
+    "pada_count": 2,
+    "syllable_pattern": [
+      9,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": null
+  },
+  {
+    "label": "स्वराडत्यष्टिः",
+    "count": 1,
+    "pada_count": 4,
+    "syllable_pattern": [
+      4,
+      7,
+      10,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "स्वराडनुष्टुप्",
+    "count": 25,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      6
+    ],
+    "max_diff_tolerance": 7,
+    "base_family": null
+  },
+  {
+    "label": "स्वराडभिकृतिः",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      32,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "स्वराडष्टिः",
+    "count": 5,
+    "pada_count": 3,
+    "syllable_pattern": [
+      9,
+      5,
+      8
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "स्वराडार्चीगायत्री",
+    "count": 20,
+    "pada_count": 1,
+    "syllable_pattern": [
+      9
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "स्वराडार्चीजगती",
+    "count": 24,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      6
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "स्वराडार्चीत्रिष्टुप्",
+    "count": 31,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      7
+    ],
+    "max_diff_tolerance": 6,
+    "base_family": null
+  },
+  {
+    "label": "स्वराडार्चीपङ्क्ति",
+    "count": 4,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      6
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "स्वराडार्चीबृहती",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      6
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "स्वराडार्च्यनुष्टुप्",
+    "count": 4,
+    "pada_count": 2,
+    "syllable_pattern": [
+      4,
+      4
+    ],
+    "max_diff_tolerance": 2,
+    "base_family": null
+  },
+  {
+    "label": "स्वराडार्च्युष्निक्",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      5,
+      3
+    ],
+    "max_diff_tolerance": 1,
+    "base_family": null
+  },
+  {
+    "label": "स्वराडार्षी gayatri",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 9,
+    "base_family": "gayatri"
+  },
+  {
+    "label": "स्वराडार्षी trishtubh",
+    "count": 8,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": "trishtubh"
+  },
+  {
+    "label": "स्वराडार्ष्यनुष्टुप्",
+    "count": 4,
+    "pada_count": 3,
+    "syllable_pattern": [
+      6,
+      8
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "स्वराडुत्कृतिः",
+    "count": 4,
+    "pada_count": 4,
+    "syllable_pattern": [
+      13,
+      5,
+      9,
+      1
+    ],
+    "max_diff_tolerance": 7,
+    "base_family": null
+  },
+  {
+    "label": "स्वराडुष्णिक्",
+    "count": 21,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      6,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "स्वराडुष्निक्",
+    "count": 11,
+    "pada_count": 3,
+    "syllable_pattern": [
+      5,
+      4,
+      1
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "स्वराड् अति धृतिः",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      12,
+      10,
+      1
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "स्वराड् धृतिः",
+    "count": 2,
+    "pada_count": 3,
+    "syllable_pattern": [
+      12,
+      9,
+      5,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "स्वराड्गायत्री",
+    "count": 5,
+    "pada_count": 2,
+    "syllable_pattern": [
+      7,
+      4
+    ],
+    "max_diff_tolerance": 3,
+    "base_family": null
+  },
+  {
+    "label": "स्वराड्जगती",
+    "count": 10,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      9
+    ],
+    "max_diff_tolerance": 8,
+    "base_family": null
+  },
+  {
+    "label": "स्वराड्धृतिः",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      16,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  },
+  {
+    "label": "स्वराड्बृहती",
+    "count": 31,
+    "pada_count": 2,
+    "syllable_pattern": [
+      6,
+      6
+    ],
+    "max_diff_tolerance": 5,
+    "base_family": null
+  },
+  {
+    "label": "स्वराड्बृहती, ब्राह्मी उष्णिक्,",
+    "count": 1,
+    "pada_count": 2,
+    "syllable_pattern": [
+      28,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": null
+  },
+  {
+    "label": "स्वराड्ब्राह्मी brihati",
+    "count": 1,
+    "pada_count": 3,
+    "syllable_pattern": [
+      7,
+      7,
+      1
+    ],
+    "max_diff_tolerance": 0,
+    "base_family": "brihati"
+  },
+  {
+    "label": "स्वराड्विकृतिः",
+    "count": 2,
+    "pada_count": 2,
+    "syllable_pattern": [
+      30,
+      8,
+      8,
+      1
+    ],
+    "max_diff_tolerance": 4,
+    "base_family": null
+  }
+]

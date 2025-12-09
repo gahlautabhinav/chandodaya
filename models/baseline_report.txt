@@ -1,0 +1,13 @@
+              precision    recall  f1-score   support
+
+   anushtubh       0.40      0.30      0.34       107
+     brihati       0.36      0.32      0.34        82
+     gayatri       0.77      0.89      0.82       393
+      jagati       0.36      0.06      0.10        90
+      pankti       0.42      0.12      0.18        85
+   trishtubh       0.55      0.83      0.67       310
+      ushnih       0.08      0.02      0.03        52
+
+    accuracy                           0.61      1119
+   macro avg       0.42      0.36      0.35      1119
+weighted avg       0.55      0.61      0.55      1119
