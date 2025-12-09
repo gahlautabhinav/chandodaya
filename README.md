@@ -90,8 +90,6 @@ TECHNICAL REQUIREMENTS
 
 Python 3.10
 
-Minimum 1 GB RAM recommended (OCR heavy)
-
 Linux / Windows / Mac support
 
 Can run local or cloud deploy
